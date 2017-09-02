@@ -1,0 +1,11 @@
+{
+  "name": "rtc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "peer": "^0.2.8",
+    "peerjs": "^0.3.14"
+  }
+}
